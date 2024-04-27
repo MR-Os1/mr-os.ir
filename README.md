@@ -1,4 +1,6 @@
-personal website and blog of nexxel. inspired by [zaduma](https://github.com/hasparus/zaduma).
+personal website and blog of mr-os.
+used from [nexxel](https://github.com/nexxeln/nexxel.dev)
+inspired by [zaduma](https://github.com/hasparus/zaduma).
 
 **tech stack**
 
